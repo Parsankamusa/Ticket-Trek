@@ -121,7 +121,7 @@ If you found this repo helpful, please give it a (⭐). Thank you!
 1. Clone the repository
 
    ```bash
-   git clone https://github.com/omaghd/otickets.git
+   git clone https://github.com/omaghd/Ticket-Trek.git
    ```
 
 2. Install the dependencies
