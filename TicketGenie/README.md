@@ -529,11 +529,7 @@ You can download it from <a href="https://omaghd.com/projects/otickets/postman_c
 
 ## Author
 
-| Website  | [omaghd.com](https://omaghd.com)             |
-| -------- | -------------------------------------------- |
-| LinkedIn | [/in/omaghd](https://linkedin.com/in/omaghd) |
-| Twitter  | [/omaghd](https://twitter.com/OmaghD)        |
-| GitHub   | [/omaghd](https://github.com/omaghd)         |
+| Musa Parsanka| Software engineer|
 
 <a href="#table-of-contents" title="Go back to the table of contents">
 ⬆️
